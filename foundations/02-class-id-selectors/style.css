@@ -1,0 +1,19 @@
+.hi{
+    background-color: pink;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.othered {
+    font-size: 24px;
+}
+
+#deeztwo{
+    color:blue;
+    font-size:36px;
+}
+
+#deezfour{
+    font-weight: bolder;
+    background-color: lightgreen;
+    font-size: 24px;
+}
