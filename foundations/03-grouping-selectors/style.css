@@ -1,0 +1,16 @@
+
+.negro, 
+.amar{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.negro{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+}
+
+.amar{
+    background-color: yellow;
+}
